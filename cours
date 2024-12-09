@@ -1,0 +1,6 @@
+git clone https://github.com/Tymheo57/mon-site.git
+cd mon-site
+# Ajoute tes fichiers HTML/CSS/JS
+git add .
+git commit -m "Ajout des fichiers du site"
+git push origin main
